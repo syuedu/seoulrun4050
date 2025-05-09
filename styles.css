@@ -205,8 +205,8 @@ label.fold-toggle:active {
 
 
 .apply-button {
-    width: 40%;
-    max-width: 300px;
+    width: 60%;
+    max-width: 600px;
     font-family: 'omyu_pretty';
     border-radius: 25px;
     font-size: 35px;
