@@ -155,8 +155,12 @@ label.fold-toggle {
     border-radius: 25px;
     text-align: center;
     cursor: pointer;
-    font-family: 'SBAggroB';
+    font-family: 'omyu_pretty';
     font-size: 40px;
+    letter-spacing: 2;
+    font-weight: bold;
+    color: rgb(31, 31, 31);
+
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
